@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+#title {
+    background-color: #ff4c68;
+
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.container .navbar-brand{
+    margin-top: 3%;
+    font-size: 3.0rem;
+    font-weight: bold;
+
+}
+h2{
+    font-family: "montserrat-bold" bold;
+    font-size: 3rem;
+    line-height :1.5;;
+    
+}
+h3{
+    font-family: "montserrat-bold" bold;
+}
+p{
+    color: #8f8f8f;
+}
+.nav-link{
+    font-size: 1.2rem;
+    color: white;
+     
+}
+.container nav ul{
+    margin-top: 3%;
+
+}
+.container .row{
+    margin-top: 5%;
+}
+.container .row h1{
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+}
+.dowload-buttons{
+    margin: 5% 3% 5% 0%;
+}
+.tittle-image{
+    transform: rotate(25deg);
+    width: 50%;
+    margin-bottom: 5%;
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #ff4c68;
+    margin-bottom: 5%;
+}
+.icon:hover{
+    color: #bb6e7a;
+}
+#testimonials{
+   
+    text-align: center;
+    background-color:  #ff4c68;
+    color: #fff;
+    
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color:#ff4c68 ;
+    text-align: center;
+    padding: 5%;
+}
+.press-logos{
+    width: 15%;
+    margin: 20px 20px 50px ;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-colm{
+    padding: 3% 2%;
+}
+#cta{
+    background-color:#ff4c68 ;
+
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+   
+   
+}
+.cta-heading{
+    font-size: 3.5rem;
+    
+    font-family: "montserrat-black";
+    
+    line-height: 1.5;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icons{
+    margin: 20px 20px;
+}
